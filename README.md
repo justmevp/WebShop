@@ -49,7 +49,7 @@ The project is structured as follows:
 ## Contact
 ---------
 
-If you have any questions or issues related to the project, please contact us at vpek215@gmail.com.
+If you have any questions or issues related to the project, please contact at vpek215@gmail.com.
 
 ## License
 ---------
