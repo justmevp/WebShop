@@ -19,10 +19,10 @@ The project is structured as follows:
 ## Technologies Used
 -------------------
 
-* Java 8
+* Java 17
 * Servlet 3.1
 * JSP 2.3
-* MySQL 8.0
+* MySQL 
 * HTML5
 * CSS3
 * JavaScript
